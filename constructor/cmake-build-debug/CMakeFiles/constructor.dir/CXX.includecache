@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/constructor/Box.cpp
+Box.h
+C:/Users/Cici/CLionProjects/constructor/Box.h
+
+C:/Users/Cici/CLionProjects/constructor/Box.h
+Rectangle.h
+C:/Users/Cici/CLionProjects/constructor/Rectangle.h
+
+C:/Users/Cici/CLionProjects/constructor/Rectangle.cpp
+Rectangle.h
+C:/Users/Cici/CLionProjects/constructor/Rectangle.h
+
+C:/Users/Cici/CLionProjects/constructor/Rectangle.h
+
+C:/Users/Cici/CLionProjects/constructor/main.cpp
+iostream
+-
+Box.h
+C:/Users/Cici/CLionProjects/constructor/Box.h
+
