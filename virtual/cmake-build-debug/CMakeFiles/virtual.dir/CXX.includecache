@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/virtual/GradedActivity.h
+
+C:/Users/Cici/CLionProjects/virtual/PassFailActivity.cpp
+PassFailActivity.h
+C:/Users/Cici/CLionProjects/virtual/PassFailActivity.h
+
+C:/Users/Cici/CLionProjects/virtual/PassFailActivity.h
+GradedActivity.h
+C:/Users/Cici/CLionProjects/virtual/GradedActivity.h
+
+C:/Users/Cici/CLionProjects/virtual/main.cpp
+iostream
+-
+iomanip
+-
+PassFailActivity.h
+C:/Users/Cici/CLionProjects/virtual/PassFailActivity.h
+
