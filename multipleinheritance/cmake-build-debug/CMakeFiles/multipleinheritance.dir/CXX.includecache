@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/multipleinheritance/Date.h
+
+C:/Users/Cici/CLionProjects/multipleinheritance/DateTime.cpp
+iostream
+-
+string
+-
+DateTime.h
+C:/Users/Cici/CLionProjects/multipleinheritance/DateTime.h
+
+C:/Users/Cici/CLionProjects/multipleinheritance/DateTime.h
+Date.h
+C:/Users/Cici/CLionProjects/multipleinheritance/Date.h
+Time.h
+C:/Users/Cici/CLionProjects/multipleinheritance/Time.h
+string
+-
+
+C:/Users/Cici/CLionProjects/multipleinheritance/Time.h
+
