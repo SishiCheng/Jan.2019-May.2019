@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/dynamic stacks/DynIntStack.h
+
+C:/Users/Cici/CLionProjects/dynamic stacks/main.cpp
+iostream
+-
+DynIntStack.h
+C:/Users/Cici/CLionProjects/dynamic stacks/DynIntStack.h
+

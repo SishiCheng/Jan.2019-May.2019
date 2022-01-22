@@ -1,0 +1,3 @@
+C:/Users/Cici/CLionProjects/dynamic stacks/cmake-build-debug/CMakeFiles/dynamic_stacks.dir
+C:/Users/Cici/CLionProjects/dynamic stacks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cici/CLionProjects/dynamic stacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
