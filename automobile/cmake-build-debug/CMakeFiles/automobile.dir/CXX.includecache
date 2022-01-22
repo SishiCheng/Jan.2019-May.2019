@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/automobile/Automobile.h
+string
+-
+
+C:/Users/Cici/CLionProjects/automobile/Car.h
+Automobile.h
+C:/Users/Cici/CLionProjects/automobile/Automobile.h
+
+C:/Users/Cici/CLionProjects/automobile/SUV.h
+Automobile.h
+C:/Users/Cici/CLionProjects/automobile/Automobile.h
+
+C:/Users/Cici/CLionProjects/automobile/Truck.h
+string
+-
+Automobile.h
+C:/Users/Cici/CLionProjects/automobile/Automobile.h
+
+C:/Users/Cici/CLionProjects/automobile/main.cpp
+iostream
+-
+iomanip
+-
+string
+-
+Car.h
+C:/Users/Cici/CLionProjects/automobile/Car.h
+Truck.h
+C:/Users/Cici/CLionProjects/automobile/Truck.h
+SUV.h
+C:/Users/Cici/CLionProjects/automobile/SUV.h
+
