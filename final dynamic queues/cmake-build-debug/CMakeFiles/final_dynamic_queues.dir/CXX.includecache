@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/final dynamic queues/DynQueue.cpp
+DynQueue.h
+C:/Users/Cici/CLionProjects/final dynamic queues/DynQueue.h
+iostream
+-
+
+C:/Users/Cici/CLionProjects/final dynamic queues/DynQueue.h
+iostream
+-
+
+C:/Users/Cici/CLionProjects/final dynamic queues/main.cpp
+iostream
+-
+DynQueue.h
+C:/Users/Cici/CLionProjects/final dynamic queues/DynQueue.h
+
