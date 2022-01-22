@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/storing class/Profuct.h
+string
+-
+
+C:/Users/Cici/CLionProjects/storing class/main.cpp
+iostream
+-
+vector
+-
+Profuct.h
+C:/Users/Cici/CLionProjects/storing class/Profuct.h
+

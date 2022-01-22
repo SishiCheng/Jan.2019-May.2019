@@ -1,0 +1,3 @@
+C:/Users/Cici/CLionProjects/storing class/cmake-build-debug/CMakeFiles/storing_class.dir
+C:/Users/Cici/CLionProjects/storing class/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cici/CLionProjects/storing class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
