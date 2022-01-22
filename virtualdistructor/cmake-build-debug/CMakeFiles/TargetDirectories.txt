@@ -1,0 +1,3 @@
+C:/Users/Cici/CLionProjects/virtualdistructor/cmake-build-debug/CMakeFiles/virtualdistructor.dir
+C:/Users/Cici/CLionProjects/virtualdistructor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cici/CLionProjects/virtualdistructor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

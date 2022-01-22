@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/virtualdistructor/Animal.h
+
+C:/Users/Cici/CLionProjects/virtualdistructor/Dog.cpp
+iostream
+-
+Dog.h
+C:/Users/Cici/CLionProjects/virtualdistructor/Dog.h
+
+C:/Users/Cici/CLionProjects/virtualdistructor/Dog.h
+Animal.h
+C:/Users/Cici/CLionProjects/virtualdistructor/Animal.h
+
+C:/Users/Cici/CLionProjects/virtualdistructor/main.cpp
+iostream
+-
+Dog.h
+C:/Users/Cici/CLionProjects/virtualdistructor/Dog.h
+
