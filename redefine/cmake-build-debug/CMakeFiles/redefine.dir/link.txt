@@ -1,0 +1,3 @@
+C:\Users\Cici\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.5429.37\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\redefine.dir/objects.a
+C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\redefine.dir/objects.a @CMakeFiles\redefine.dir\objects1.rsp
+C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\redefine.dir/objects.a -Wl,--no-whole-archive  -o redefine.exe -Wl,--out-implib,libredefine.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\redefine.dir\linklibs.rsp

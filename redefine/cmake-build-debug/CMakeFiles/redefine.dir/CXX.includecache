@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/redefine/CurvedActivity.h
+GradedActivity.h
+C:/Users/Cici/CLionProjects/redefine/GradedActivity.h
+
+C:/Users/Cici/CLionProjects/redefine/GradedActivity.h
+
+C:/Users/Cici/CLionProjects/redefine/main.cpp
+iostream
+-
+iomanip
+-
+CurvedActivity.h
+C:/Users/Cici/CLionProjects/redefine/CurvedActivity.h
+
