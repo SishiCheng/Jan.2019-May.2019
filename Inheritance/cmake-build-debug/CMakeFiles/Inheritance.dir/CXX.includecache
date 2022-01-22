@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/Inheritance/FinalExam.h
+GradedActivity.h
+C:/Users/Cici/CLionProjects/Inheritance/GradedActivity.h
+
+C:/Users/Cici/CLionProjects/Inheritance/GradedActivity.h
+
+C:/Users/Cici/CLionProjects/Inheritance/main.cpp
+iostream
+-
+iomanip
+-
+FinalExam.h
+C:/Users/Cici/CLionProjects/Inheritance/FinalExam.h
+
