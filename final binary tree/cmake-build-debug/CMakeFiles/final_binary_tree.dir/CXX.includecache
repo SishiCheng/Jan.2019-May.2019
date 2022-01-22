@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/final binary tree/IntBinaryTree.cpp
+IntBinaryTree.h
+C:/Users/Cici/CLionProjects/final binary tree/IntBinaryTree.h
+iostream
+-
+
+C:/Users/Cici/CLionProjects/final binary tree/IntBinaryTree.h
+
