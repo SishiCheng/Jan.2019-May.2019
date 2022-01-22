@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cici/CLionProjects/exception with class/Rectangle.h
+
+C:/Users/Cici/CLionProjects/exception with class/main.cpp
+iostream
+-
+Rectangle.h
+C:/Users/Cici/CLionProjects/exception with class/Rectangle.h
+
