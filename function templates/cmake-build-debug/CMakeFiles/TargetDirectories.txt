@@ -1,0 +1,3 @@
+C:/Users/Cici/CLionProjects/function templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Cici/CLionProjects/function templates/cmake-build-debug/CMakeFiles/function_templates.dir
+C:/Users/Cici/CLionProjects/function templates/cmake-build-debug/CMakeFiles/edit_cache.dir
